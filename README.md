@@ -84,7 +84,7 @@ This demonstrates that, even with moderate segmentation accuracy, a strong linea
 ## 📸 Sample Visualizations
 
 ### Actual vs Predicted Segmentation:
-![Segmentation](Results/Actual vs Predicted cotton pixels.png)
+![Segmentation](results/actual_vs_predicted_cotton_pixels.png)
 
 ### Regression Fit:
 ![Regression](Results/yield_regression_results.png)
